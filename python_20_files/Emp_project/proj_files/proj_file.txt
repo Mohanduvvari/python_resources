@@ -1,0 +1,30 @@
+project implementation-pickling and un-pickling
+--------------------------------------------------
+                Employee information system
+                -----------------------------
+                1.add new Employee
+                2.delete Employee
+                3.update Employee
+                4.view Employee details
+                5.view all Employee details
+                6.search Employee details
+                7.exit
+            -----------------
+            Enter ur choice:
+
+File system:
+--------------
+1.empMenu.py ---module
+        menu()
+2.empAdd.py   ---module
+        addemp()
+3.empDel.py ---module
+        delemp()
+4.empUpdate.py   ---module
+        updateemp()
+5.empview.py   --module
+        viewempl()
+        viewallemps()
+6.empsearch.py --module
+        searchemp()
+7.employeeMainProj.py   -- main program

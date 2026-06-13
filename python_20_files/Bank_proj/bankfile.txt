@@ -1,0 +1,19 @@
+			------------------------------------------------------------
+					Banking Information System
+			------------------------------------------------------------
+					1. Add New Customer (Opening an Account)
+					2. Delete Customer ( Closing an Account)
+					3. WithDraw		(Updating the Balance)
+					4. Deposit		(Updating the Balance) 
+					5. View Customer Details
+					6. View All Customer Deatils
+					7. Search Customer Details
+					8. Pin Update
+					9. Exit
+			------------------------------------------------------------
+					Enter UR Choice:
+			------------------------------------------------------------
+File Structure ( BankCustomer.data)
+------------------------------------------------------------------------
+		Acno	CustName	Bal		PIN	
+-----------------------------------------------------------------------

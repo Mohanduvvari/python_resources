@@ -1,0 +1,13 @@
+def menu():
+    print("-"*100)
+    print('\t\tBanking information system')
+    print("-"*100)
+    print("\t\t1.Add New Customer - Opening Account")
+    print("\t\t2.Delete Customer - Closing Account")
+    print("\t\t3.Withdraw Amount")
+    print("\t\t4.Deposit Amount")
+    print("\t\t5.View customer details")
+    print("\t\t6.View all customer details")
+    print("\t\t7.Balance Enquiry")
+    print("\t\t8.PIN updation")
+    print("\t\t9.Exit")
